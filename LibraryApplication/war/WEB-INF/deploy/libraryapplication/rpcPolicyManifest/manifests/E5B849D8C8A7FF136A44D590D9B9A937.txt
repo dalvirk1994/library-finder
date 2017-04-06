@@ -1,0 +1,2 @@
+serviceClass: com.google.gwt.libraryapp.client.LoadLibraryDataService
+path: C90B8867E9BBD0640CF8F835F3D2F963.gwt.rpc

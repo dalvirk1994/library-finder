@@ -1,0 +1,5 @@
+# Module libraryapplication
+# RPC service class, partial path of RPC policy file
+com.google.gwt.libraryapp.client.FavoriteLibraryService, E1DA00D887789D2C217C120FA529BD6F.gwt.rpc
+com.google.gwt.libraryapp.client.LoginService, 2C667E4C8EE17D660DD2D12EDC2EEF7D.gwt.rpc
+com.google.gwt.libraryapp.client.LoadLibraryDataService, C90B8867E9BBD0640CF8F835F3D2F963.gwt.rpc

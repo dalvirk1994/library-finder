@@ -1,0 +1,2 @@
+serviceClass: com.google.gwt.libraryapp.client.FavoriteLibraryService
+path: E1DA00D887789D2C217C120FA529BD6F.gwt.rpc

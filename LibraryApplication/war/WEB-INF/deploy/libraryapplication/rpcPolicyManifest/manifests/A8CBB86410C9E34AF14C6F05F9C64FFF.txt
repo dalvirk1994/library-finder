@@ -1,0 +1,2 @@
+serviceClass: com.google.gwt.libraryapp.client.LoginService
+path: 2C667E4C8EE17D660DD2D12EDC2EEF7D.gwt.rpc
